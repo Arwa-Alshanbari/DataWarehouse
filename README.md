@@ -18,7 +18,8 @@ and measures.
 ![alt text](Snowflake_Schema.jpg)
 
 ### Part 2: SQL Code for Table Creation and Data Population
-- [Table Creation](Create tables.sql)
+- [Table Creation](https://github.com/Arwa-Alshanbari/DataWarehouse/blob/main/2.1%20Create%20tables.sql)
+- [Data Population](2.1%20Populate%20tables.sql)
 
 ### Part 3: OLAP Queries
 **_3.1 Basic Aggregate Functions:_**
