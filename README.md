@@ -18,8 +18,8 @@ and measures.
 ![alt text](Snowflake_Schema.jpg)
 
 ### Part 2: SQL Code for Table Creation and Data Population
-- [Table Creation](https://github.com/Arwa-Alshanbari/DataWarehouse/blob/main/2.1%20Create%20tables.sql)
-- [Data Population](2.2%20Populate%20tables.sql)
+> [Table Creation](https://github.com/Arwa-Alshanbari/DataWarehouse/blob/main/2.1%20Create%20tables.sql)
+> [Data Population](2.2%20Populate%20tables.sql)
 
 ### Part 3: OLAP Queries
 **_3.1 Basic Aggregate Functions:_**
@@ -27,6 +27,8 @@ and measures.
 - **AVG**: Calculate the average grades for each course at the end of the term.
 - **SUM**: Sum all students' final grades in each course.
 - **MAX**: Determine the maximum grade achieved in each course.
+> - [Basic Aggregate Functions](3.1%20Basic%20Aggregate%20Functions.sql)
+  
 
 **_3.2 Advanced Aggregate Function:_**
 - **CUBE**: Perform a CUBE operation on the 'enrollments' table to show the total number of
@@ -37,10 +39,12 @@ the entire university.
 result set.
 - **DECODE**: Use DECODE to transform coded values into meaningful descriptions within the
 query output.
+ > - [Advanced Aggregate Function](3.1%20Advanced%20Aggregate%20Functions.sql)
 
 **_3.3 Advanced Analysis Functions:_**
 - **RANK**: Rank students in each course based on their grades.
 - **CUME_DIST**: Calculate the cumulative distribution of grades in each course.
+ > - [Advanced Analysis Function](3.1%20Advanced%20Analysis%20Functions.sql)
 ______________________________________________
 # Requirements
 The software we used:
