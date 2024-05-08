@@ -15,6 +15,7 @@ Design a data warehouse for managing a university's academic data using PostgreS
 - Design a snowflake schema for the university's academic management system. 
 - Include fact and dimensional tables, PK (Primary Keys), FK (Foreign Keys), attributes,
 and measures.
+![alt text](Snowflake_Schema.jpg)
 
 ### Part 2: SQL Code for Table Creation and Data Population
 
